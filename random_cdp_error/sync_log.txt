@@ -1,0 +1,69 @@
+2023-11-25 15:39:24.027422 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:25.630782 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:27.194295 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:28.802438 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:30.401476 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:32.170323 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:33.707021 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:35.268735 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:36.834278 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:38.413509 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:39.963321 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:41.539530 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:43.313097 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:44.927884 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:46.543589 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:49.155216 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:51.775279 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:53.404386 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:54.969531 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:57.407791 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:39:58.972369 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+2023-11-25 15:40:00.627867 {'On The Cards': 6.0, 'Timely Artist': 81.0, 'Mashaaer': 1.28, 'Electric Avenue': 9.0, 'Moda Minx': 19.0, 'Peruvian Sunset': 81.0}
+Traceback (most recent call last):
+  File "/Users/nixon/repos/driverless-sandbox/sync.py", line 74, in <module>
+    data = get_horse_odds(driver)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/repos/driverless-sandbox/sync.py", line 39, in get_horse_odds
+    horses = wait.until(EC.presence_of_all_elements_located((By.XPATH, XPath.RUNNER)))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 92, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium/webdriver/support/expected_conditions.py", line 185, in _predicate
+    return driver.find_elements(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/sync/webdriver.py", line 38, in syncified
+    return self._loop.run_until_complete(res(*args, **kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/webdriver.py", line 697, in find_elements
+    return await target.find_elements(by=by, value=value, parent=parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/target.py", line 553, in find_elements
+    return await parent.find_elements(by=by, value=value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/webelement.py", line 305, in find_elements
+    return await self.execute_script(scipt, value, serialization="deep", timeout=10, unique_context=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/webelement.py", line 757, in execute_script
+    return await self.__exec__(script, *args, max_depth=max_depth, serialization=serialization,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/deserialize.py", line 183, in __exec__
+    base_obj_id = await self.__obj_id_for_context__(exec_context)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/webelement.py", line 147, in __obj_id_for_context__
+    res = await self.__target__.execute_cdp_cmd("DOM.resolveNode", args)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/selenium_driverless/types/target.py", line 743, in execute_cdp_cmd
+    result = await self.socket.exec(method=cmd, params=cmd_args, timeout=timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/envs/driverless-sandbox-venv/lib/python3.11/site-packages/cdp_socket/socket.py", line 72, in exec
+    return await asyncio.wait_for(self._responses[_id], timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nixon/.pyenv/versions/3.11.6/lib/python3.11/asyncio/tasks.py", line 489, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+cdp_socket.exceptions.CDPError: {'code': -32000, 'message': 'No node with given id found'}
